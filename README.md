@@ -34,15 +34,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 * Postgre SQL
 * PgAdmin4
 
-## Credits
-
-Throughout the development of this project, I have sought inspiration from a pivotal video source: https://youtu.be/VFIuIjswMKM
-
-## License
-
-You can use this dataset to build your own project and practice your SQL skills.
-
----
 
 ## Badges
 
@@ -86,3 +77,4 @@ The project was successful in answering the set of questions about the store's b
 
 
 I hope this is helpful! -->
+
