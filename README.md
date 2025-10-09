@@ -1,7 +1,5 @@
 # SQL Project: Music Store Analysis
 
-Read the full detailed article <a href="https://avishek-choudhary.github.io/projects/Music%20Store.html">here</a>.
-
 ## Description
 
 This project uses SQL to analyze the dataset of an online music store. The goal of the project is to answer a set of questions about the store's business performance and help in its growth by making better decisions.
@@ -35,14 +33,9 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 * PgAdmin4
 
 
-## Badges
-
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-
 ## Questions Answered
 
-The following are a few of the questions that are answered in the project (check out <a href="https://github.com/avishek09/Music-Store-Analysis/blob/main/analysis.sql">analysis.sql</a> file for the rest):
+The following are a few of the questions that are answered in the project
 
 * What are the most popular genres of music?
 * What are the most popular artists?
@@ -77,4 +70,5 @@ The project was successful in answering the set of questions about the store's b
 
 
 I hope this is helpful! -->
+
 
